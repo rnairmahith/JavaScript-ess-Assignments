@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(red, green, blue);
+}
+
+.position{
+    align-content: center;
+    text-align: center;
+}
